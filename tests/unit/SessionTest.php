@@ -16,9 +16,4 @@ class SessionTest extends \PHPUnit_Framework_TestCase
         $this->assertTrue(false);
     }
 
-    public function test1Me()
-    {
-        $this->assertTrue(true);
-    }
-
 }
